@@ -33,6 +33,7 @@ slider components, then a waveform display and load button at the bottom of it.
 Lower half of the window was dedicated to a playlist table component, which was
 split into two columns, one that displayed track title, second containing play
 buttons, as shown in the screenshot of the lecture video captured:
+
 ![image](https://github.com/nopacak/OtoDecks/assets/65850108/3c2538b0-3247-449a-ae25-26b5db62d1ec)
 
 I kept the original positioning of the deck gui and the playlist component and did
@@ -49,4 +50,5 @@ Playlist table component has load into playlist button and search bar on the top
 it, followed by 5 columns for track title, track duration, load into and delete
 buttons, which all load into the rows once the files are being selected from the file
 browser window. Screenshot:
+
 ![image](https://github.com/nopacak/OtoDecks/assets/65850108/aad6dea0-c213-45d5-8442-29c5fb326d3d)
